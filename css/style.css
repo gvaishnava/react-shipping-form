@@ -1,0 +1,17 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+	margin: 20px;
+	border-collapse: separate;
+    border-spacing: 10px 10px;
+	
+}
+
+.rightalign {
+	text-align: right;
+}
+
+.righttopalign {
+	text-align: right;
+	vertical-align: top;
+}
